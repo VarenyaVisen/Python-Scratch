@@ -1,0 +1,3 @@
+A Python interpreter is a program that reads and executes Python code. Unlike compiled languages that translate the entire program into machine code before execution, Python is an interpreted language, meaning the interpreter processes and executes the code line by line or in small blocks
+
+Source Code --> 1.Compile to bytecode 2.Execute by the virtual machine --> machine code
