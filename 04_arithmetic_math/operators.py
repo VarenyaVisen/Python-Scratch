@@ -8,6 +8,14 @@ print(a // b)  # Floor Division → 3
 print(a % b)   # Modulus (Remainder) → 1
 print(a ** b)  # Exponentiation → 1000
 
+#Augmented assignment
+# a+=b
+# a-=b
+# a*=b
+# a/=b
+# a**=b
+
+
 # Comparison Operators
 print(a == b)  # Equal → False
 print(a != b)  # Not equal → True
