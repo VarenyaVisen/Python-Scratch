@@ -14,7 +14,7 @@ else:
 
 
 
-response = input("Enter your response : ").lower
+response = input("Enter your response : ").lower()
 if response == "y":
     print("You will get the food")
 
